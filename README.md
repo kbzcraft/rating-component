@@ -1,5 +1,5 @@
 # Frontend Mentor - Interactive rating component
-[GO TO LIVE SITE](https://kbzcraft.github.io/rating-component/)
+### [GO TO LIVE SITE](https://kbzcraft.github.io/rating-component/)
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 
